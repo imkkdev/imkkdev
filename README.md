@@ -1,1 +1,1 @@
-<img width="100%" src="https://raw.githubusercontent.com/imkkdev/imkkdev/main/assets/ink-landscape.svg?v=2" alt="imkkdev · Shanghai After Dark. A neon eclipse over Shanghai and a pelican cycling by the river." />
+<img width="100%" src="https://raw.githubusercontent.com/imkkdev/imkkdev/main/assets/ink-landscape.svg?v=3" alt="imkkdev · Shanghai After Dark. A neon eclipse over Shanghai and a pelican cycling by the river. Signed Codex / GPT-6." />
